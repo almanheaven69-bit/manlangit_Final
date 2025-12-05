@@ -1,0 +1,109 @@
+[Fri Dec  5 22:53:18 2025] PHP 8.2.12 Development Server (http://localhost:8001) started
+[Fri Dec  5 22:53:27 2025] [::1]:50336 Accepted
+[Fri Dec  5 22:53:27 2025] [::1]:50336 Closed without sending a request; it was probably just an unused speculative preconnection
+[Fri Dec  5 22:53:27 2025] [::1]:50336 Closing
+[Fri Dec  5 22:53:28 2025] [::1]:50337 Accepted
+[Fri Dec  5 22:53:28 2025] [::1]:50337 [200]: GET /RegisterPage.php
+[Fri Dec  5 22:53:28 2025] [::1]:50337 Closing
+[Fri Dec  5 22:55:58 2025] [::1]:50376 Accepted
+[Fri Dec  5 22:55:58 2025] [::1]:50376 [302]: POST /RegisterPage.php
+[Fri Dec  5 22:55:58 2025] [::1]:50376 Closing
+[Fri Dec  5 22:57:14 2025] [::1]:64348 Accepted
+[Fri Dec  5 22:57:14 2025] [::1]:64348 [200]: GET /RegisterPage.php
+[Fri Dec  5 22:57:14 2025] [::1]:64348 Closing
+[Fri Dec  5 22:57:14 2025] [::1]:54981 Accepted
+[Fri Dec  5 22:57:14 2025] [::1]:54981 [200]: GET /css/bootstrap.min.css
+[Fri Dec  5 22:57:14 2025] [::1]:53217 Accepted
+[Fri Dec  5 22:57:14 2025] [::1]:50469 Accepted
+[Fri Dec  5 22:57:14 2025] [::1]:54981 Closing
+[Fri Dec  5 22:57:14 2025] [::1]:53217 [404]: GET /Images/CCDI_Logo.jpg - No such file or directory
+[Fri Dec  5 22:57:14 2025] [::1]:50469 [200]: GET /js/form-validation.js
+[Fri Dec  5 22:57:14 2025] [::1]:53217 Closing
+[Fri Dec  5 22:57:14 2025] [::1]:50469 Closing
+[Fri Dec  5 22:57:14 2025] [::1]:61368 Accepted
+[Fri Dec  5 22:57:14 2025] [::1]:61368 [404]: GET /favicon.ico - No such file or directory
+[Fri Dec  5 22:57:14 2025] [::1]:61368 Closing
+[Fri Dec  5 22:57:14 2025] [::1]:60359 Accepted
+[Fri Dec  5 22:57:14 2025] [::1]:60359 [200]: GET /RegisterPage.php
+[Fri Dec  5 22:57:14 2025] [::1]:60359 Closing
+[Fri Dec  5 22:57:14 2025] [::1]:64175 Accepted
+[Fri Dec  5 22:57:14 2025] [::1]:58737 Accepted
+[Fri Dec  5 22:57:14 2025] [::1]:64175 [200]: GET /css/bootstrap.min.css
+[Fri Dec  5 22:57:14 2025] [::1]:53084 Accepted
+[Fri Dec  5 22:57:14 2025] [::1]:64175 Closing
+[Fri Dec  5 22:57:14 2025] [::1]:58737 [404]: GET /Images/CCDI_Logo.jpg - No such file or directory
+[Fri Dec  5 22:57:14 2025] [::1]:53084 [200]: GET /js/form-validation.js
+[Fri Dec  5 22:57:14 2025] [::1]:58737 Closing
+[Fri Dec  5 22:57:14 2025] [::1]:53084 Closing
+[Fri Dec  5 22:57:14 2025] [::1]:51499 Accepted
+[Fri Dec  5 22:57:14 2025] [::1]:51499 [200]: GET /RegisterPage.php
+[Fri Dec  5 22:57:14 2025] [::1]:51499 Closing
+[Fri Dec  5 22:57:14 2025] [::1]:56131 Accepted
+[Fri Dec  5 22:57:14 2025] [::1]:65194 Accepted
+[Fri Dec  5 22:57:14 2025] [::1]:56131 [200]: GET /css/bootstrap.min.css
+[Fri Dec  5 22:57:14 2025] [::1]:65194 [404]: GET /Images/CCDI_Logo.jpg - No such file or directory
+[Fri Dec  5 22:57:14 2025] [::1]:60997 Accepted
+[Fri Dec  5 22:57:14 2025] [::1]:65194 Closing
+[Fri Dec  5 22:57:14 2025] [::1]:56131 Closing
+[Fri Dec  5 22:57:14 2025] [::1]:60997 [200]: GET /js/form-validation.js
+[Fri Dec  5 22:57:14 2025] [::1]:60997 Closing
+[Fri Dec  5 22:57:15 2025] [::1]:63802 Accepted
+[Fri Dec  5 22:57:15 2025] [::1]:63802 [200]: GET /RegisterPage.php
+[Fri Dec  5 22:57:15 2025] [::1]:63802 Closing
+[Fri Dec  5 22:57:15 2025] [::1]:52357 Accepted
+[Fri Dec  5 22:57:15 2025] [::1]:60693 Accepted
+[Fri Dec  5 22:57:15 2025] [::1]:52357 [200]: GET /css/bootstrap.min.css
+[Fri Dec  5 22:57:15 2025] [::1]:55666 Accepted
+[Fri Dec  5 22:57:15 2025] [::1]:60693 [404]: GET /Images/CCDI_Logo.jpg - No such file or directory
+[Fri Dec  5 22:57:15 2025] [::1]:55666 [200]: GET /js/form-validation.js
+[Fri Dec  5 22:57:15 2025] [::1]:52357 Closing
+[Fri Dec  5 22:57:15 2025] [::1]:60693 Closing
+[Fri Dec  5 22:57:15 2025] [::1]:55666 Closing
+[Fri Dec  5 22:57:16 2025] [::1]:64771 Accepted
+[Fri Dec  5 22:57:16 2025] [::1]:64771 [200]: GET /RegisterPage.php
+[Fri Dec  5 22:57:16 2025] [::1]:64771 Closing
+[Fri Dec  5 22:57:16 2025] [::1]:54372 Accepted
+[Fri Dec  5 22:57:16 2025] [::1]:55570 Accepted
+[Fri Dec  5 22:57:16 2025] [::1]:54372 [200]: GET /css/bootstrap.min.css
+[Fri Dec  5 22:57:16 2025] [::1]:54372 Closing
+[Fri Dec  5 22:57:16 2025] [::1]:55570 [404]: GET /Images/CCDI_Logo.jpg - No such file or directory
+[Fri Dec  5 22:57:16 2025] [::1]:55570 Closing
+[Fri Dec  5 22:57:16 2025] [::1]:53070 Accepted
+[Fri Dec  5 22:57:16 2025] [::1]:53070 [200]: GET /js/form-validation.js
+[Fri Dec  5 22:57:16 2025] [::1]:53070 Closing
+[Fri Dec  5 22:57:16 2025] [::1]:51489 Accepted
+[Fri Dec  5 22:57:16 2025] [::1]:51489 [200]: GET /RegisterPage.php
+[Fri Dec  5 22:57:16 2025] [::1]:51489 Closing
+[Fri Dec  5 22:57:16 2025] [::1]:58712 Accepted
+[Fri Dec  5 22:57:16 2025] [::1]:62520 Accepted
+[Fri Dec  5 22:57:16 2025] [::1]:58712 [200]: GET /css/bootstrap.min.css
+[Fri Dec  5 22:57:16 2025] [::1]:60525 Accepted
+[Fri Dec  5 22:57:16 2025] [::1]:62520 [404]: GET /Images/CCDI_Logo.jpg - No such file or directory
+[Fri Dec  5 22:57:16 2025] [::1]:58712 Closing
+[Fri Dec  5 22:57:16 2025] [::1]:62520 Closing
+[Fri Dec  5 22:57:16 2025] [::1]:60525 [200]: GET /js/form-validation.js
+[Fri Dec  5 22:57:16 2025] [::1]:60525 Closing
+[Fri Dec  5 22:57:17 2025] [::1]:56779 Accepted
+[Fri Dec  5 22:57:17 2025] [::1]:56779 [200]: GET /RegisterPage.php
+[Fri Dec  5 22:57:17 2025] [::1]:56779 Closing
+[Fri Dec  5 22:57:17 2025] [::1]:61561 Accepted
+[Fri Dec  5 22:57:17 2025] [::1]:59779 Accepted
+[Fri Dec  5 22:57:17 2025] [::1]:61561 [200]: GET /css/bootstrap.min.css
+[Fri Dec  5 22:57:17 2025] [::1]:57895 Accepted
+[Fri Dec  5 22:57:17 2025] [::1]:59779 [404]: GET /Images/CCDI_Logo.jpg - No such file or directory
+[Fri Dec  5 22:57:17 2025] [::1]:57895 [200]: GET /js/form-validation.js
+[Fri Dec  5 22:57:17 2025] [::1]:59779 Closing
+[Fri Dec  5 22:57:17 2025] [::1]:57895 Closing
+[Fri Dec  5 22:57:17 2025] [::1]:61561 Closing
+[Fri Dec  5 22:57:32 2025] [::1]:65113 Accepted
+[Fri Dec  5 22:57:32 2025] [::1]:65113 [200]: GET /SigninPage.php
+[Fri Dec  5 22:57:32 2025] [::1]:65113 Closing
+[Fri Dec  5 22:57:32 2025] [::1]:53551 Accepted
+[Fri Dec  5 22:57:32 2025] [::1]:50334 Accepted
+[Fri Dec  5 22:57:32 2025] [::1]:53551 [200]: GET /css/bootstrap.min.css
+[Fri Dec  5 22:57:32 2025] [::1]:63131 Accepted
+[Fri Dec  5 22:57:32 2025] [::1]:50334 [404]: GET /Images/CCDI_Logo.jpg - No such file or directory
+[Fri Dec  5 22:57:32 2025] [::1]:63131 [200]: GET /js/form-validation.js
+[Fri Dec  5 22:57:32 2025] [::1]:50334 Closing
+[Fri Dec  5 22:57:32 2025] [::1]:53551 Closing
+[Fri Dec  5 22:57:32 2025] [::1]:63131 Closing
